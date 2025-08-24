@@ -3,6 +3,7 @@
 Send texts/receipt photos to WhatsApp → extract details (LLM + OCR) → log to Google Sheets → get daily/weekly/monthly summaries back on WhatsApp.
 
 Here’s a quick demo of how it works:
+
 [![Watch the demo on YouTube](https://img.youtube.com/vi/q6Ly95irPn0/0.jpg)](https://youtu.be/q6Ly95irPn0)
 
 
