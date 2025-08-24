@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.env
+.env.*
+*.log
+
+# Local / secrets
+service_account.json
+*.key
+*.pem
+
+# Node/Editor cruft (just in case)
+node_modules/
+.DS_Store
+*.swp
+
+# Cloud Shell temp
+.whatever_tmp*/
