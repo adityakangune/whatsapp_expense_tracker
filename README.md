@@ -2,7 +2,8 @@
 
 Send texts/receipt photos to WhatsApp → extract details (LLM + OCR) → log to Google Sheets → get daily/weekly/monthly summaries back on WhatsApp.
 
-![Demo]([https://media.giphy.com/media/abcd1234/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDU4NG0xMDcyODAwYWoya2RvcDE1Z3Z3Mmp0dWF6b21kMnJ3MjYybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2xpz6IlyJTf6iM2PGD/giphy.gif))
+![Demo GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDU4NG0xMDcyODAwYWoya2RvcDE1Z3Z3Mmp0dWF6b21kMnJ3MjYybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2xpz6IlyJTf6iM2PGD/giphy.gif)
+
 
 ## What it does
 - Ingests WhatsApp messages (text + images) via Twilio webhook.
