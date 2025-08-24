@@ -204,7 +204,7 @@ We welcome contributions! Please feel free to submit issues, feature requests, o
 
 ## 📄 License
 
-This project is proprietary and all rights are reserved by the author.
+Does it matter...
 
 ## 🆘 Support
 
